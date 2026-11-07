@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "NLN",
+    " N "
+  ],
+  "key": {
+    "L": {
+      "item": "diamond_locator:diamond_locator"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "diamond_locator:netherite_locator",
+    "count": 1
+  }
+}

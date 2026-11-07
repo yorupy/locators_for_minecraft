@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="diamond_locator"
+version="1.0.0"
+displayName="Locators"
+updateJSONURL="https://example.com"
+displayURL="https://example.com"
+logoFile="examplemod.png"
+credits="Thanks to everyone!"
+authors="Yoru"
+description='''
+This mod adds a special item that scans the area and reveals nearby diamond ores and netherite scraps!
+'''
